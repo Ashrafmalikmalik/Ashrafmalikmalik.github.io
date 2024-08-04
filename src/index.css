@@ -1,0 +1,235 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.col-0 {
+  height: 300vh;
+  width: 100%;
+
+}
+
+.col-1 {
+  height: 10vh;
+  width: 100%;
+
+}
+
+.col-2 {
+  height: 10vh;
+  width: 10%;
+  float: left;
+}
+
+.col-3 {
+  height: 10vh;
+  width: 10%;
+  float: left;
+}
+
+.col-4 {
+  height: 10vh;
+  width: 80%;
+  background-color: white;
+  float: right;
+  text-align: end;
+}
+
+.col-5 {
+  height: 40vh;
+  width: 100%;
+
+}
+
+.col-6 {
+  height: 60vh;
+  width: 100%;
+
+}
+
+.col-7 {
+  height: 60vh;
+  width: 25%;
+  float: left;
+}
+
+.col-8 {
+  height: 60vh;
+  width: 50%;
+  float: left;
+}
+
+.col-9 {
+  height: 60vh;
+  width: 25%;
+  float: right;
+}
+
+
+
+.col-12 {
+  height: 8vh;
+  width: 100%;
+  background-color: blue;
+  position: fixed;
+  bottom: 0vh;
+  text-align: center;
+}
+
+.col-13 {
+  height: 13vh;
+  width: 100%;
+  background-color: blue;
+
+}
+
+.col-14 {
+  height: 15vh;
+  width: 25%;
+  float: left;
+  text-align: center;
+}
+
+.col-15 {
+  height: 15vh;
+  width: 25%;
+  float: left;
+}
+
+.col-16 {
+  height: 15vh;
+  width: 25%;
+  float: left;
+}
+
+.col-17 {
+  height: 15vh;
+  width: 25%;
+  float: right;
+}
+
+.col-18 {
+  height: 10vh;
+  width: 100%;
+}
+
+.col-19 {
+  height: 10vh;
+  width: 30%;
+  float: left;
+  text-align: end;
+}
+
+.col-20 {
+  height: 10vh;
+  width: 20%;
+  float: right;
+
+}
+
+.col-21 {
+  height: 15vh;
+  width: 100%;
+
+}
+
+.col-22 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: left;
+  margin-left: 10%;
+}
+
+.col-23 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: left;
+}
+
+.col-24 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: left;
+
+}
+
+.col-25 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: right;
+  margin-right: 10%;
+}
+
+.col-26 {
+  height: 15vh;
+  width: 100%;
+
+}
+
+.col-27 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: left;
+  margin-left: 10%;
+}
+
+.col-28 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: left;
+}
+
+.col-29 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: left;
+
+}
+
+.col-30 {
+  height: 15vh;
+  width: 20%;
+  background-color: wheat;
+  float: right;
+  margin-right: 10%;
+}
+
+.col-31 {
+  text-align: center;
+  text-decoration: underline;
+
+}
+
+.col-32 {
+  text-align: center;
+}
+
+.col-33 {
+  text-align: center;
+}
+
+.left {
+  height: 60vh;
+  width: 50%;
+  float: left;
+
+}
+
+.right {
+  height: 60vh;
+  width: 50%;
+  float: right;
+}
+
+.FullName {
+  height: 5vh;
+  width: 10%;
+  float: left;
+}
